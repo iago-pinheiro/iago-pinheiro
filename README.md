@@ -4,7 +4,7 @@
 
 Sou um entusiasta de tecnologia focado em resolver problemas.
 
-Atualmente faço parte do time de **Produtos/T.I.** da **Great Place to Work Brasil**, onde atuo na linha de frente resolvendo todo tipo de incidente técnico. Se algo quebra, eu encontro a solução.
+Atualmente faço parte do time de **Equipamentos/T.I.** da **Great Place to Work Brasil**, onde atuo na linha de frente resolvendo todo tipo de incidente técnico. Se algo quebra, eu encontro a solução.
 
 Paralelamente, estou indo para o **4º Semestre** de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
 
