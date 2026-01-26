@@ -1,48 +1,35 @@
 # Iago Rodrigues Pinheiro
 
-> **IT Support & Problem Solver**
+> **Problem Solver | T.I. Support**
 
-Atualmente atuando no time de **Produtos e T.I.** da **Great Place to Work Brasil**, focado em suporte técnico e resolução de incidentes.
-Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca. Minha abordagem é prática: diagnosticar a causa raiz e aplicar a solução mais eficiente, seja em código ou infraestrutura.
+Sou um entusiasta de tecnologia focado em resolver problemas.
 
----
+Atualmente faço parte do time de **Produtos/T.I.** da **Great Place to Work Brasil**, onde atuo na linha de frente resolvendo todo tipo de incidente técnico. Se algo quebra, eu encontro a solução.
 
-### 💼 Experiência Atual
-
-**Great Place to Work Brasil** (Jovem Aprendiz - T.I.)
-* **Foco:** Suporte técnico (Helpdesk), manutenção de equipamentos e troubleshooting de software/hardware.
-* **Role:** Atuação direta na resolução de chamados e suporte ao usuário final, garantindo a continuidade das operações do time.
+Paralelamente, estou indo para o **4º Semestre** de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
 
 ---
 
-### 🛠️ Tech & Tools
+### 💻 Tech & Foco
 
-* **OS:** Linux (Daily Driver & Troubleshooting), Windows
-* **Dev:** JavaScript, HTML5, CSS3, SQL
-* **Ferramentas:** Git, VS Code, Ferramentas de Helpdesk
-
----
-
-### 🧠 Mindset
-
-* **Problem Solving:** Habilidade afiada no dia a dia do suporte para isolar e corrigir falhas rapidamente.
-* **Linux Enthusiast:** Foco em otimização de sistema e customização de ambiente.
-* **Aprendizado Contínuo:** Expandindo conhecimentos de Fullstack Development em paralelo à atuação em infra/suporte.
+* **Estudando:** JavaScript & React Native.
+* **No trabalho:** Troubleshooting de hardware/software e suporte.
+* **Ambiente:** Usuário de **Linux**. Gosto de customizar e ter total controle do meu sistema.
 
 ---
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/iago-pinheiroo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/iago-pinheiroo/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:iagoo.pinheiro73@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="gmail logo" />
+  <a href="mailto:iagoo.pinheiro73@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/iago_.pinheiro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="instagram logo" />
+  <a href="https://www.instagram.com/iago_.pinheiro/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
 
 <br>
 
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iago-pinheiro&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
+![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iago-pinheiro&show_icons=true&theme=dark&hide_border=true&count_private=true)
