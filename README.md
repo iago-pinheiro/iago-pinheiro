@@ -12,7 +12,7 @@ Paralelamente, estou indo para o **4º Semestre** de **Desenvolvimento de Softwa
 
 ### 💻 Tech & Foco
 
-* **Estudando:** JavaScript & React Native.
+* **Estudando:** JavaScript | React | React Native.
 * **No trabalho:** Troubleshooting de hardware/software e suporte.
 * **Ambiente:** Usuário de **Linux**. Gosto de customizar e ter total controle do meu sistema.
 
