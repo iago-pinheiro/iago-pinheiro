@@ -1,60 +1,48 @@
-<h2 align="left">Olá 👋, Eu sou Iago Rodrigues Pinheiro</h2>
+# Iago Rodrigues Pinheiro
 
-###
+> **IT Support & Problem Solver**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iago-pinheiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iago-pinheiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Atualmente atuando no time de **Produtos e T.I.** da **Great Place to Work Brasil**, focado em suporte técnico e resolução de incidentes.
+Estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca. Minha abordagem é prática: diagnosticar a causa raiz e aplicar a solução mais eficiente, seja em código ou infraestrutura.
 
-###
+---
+
+### 💼 Experiência Atual
+
+**Great Place to Work Brasil** (Jovem Aprendiz - T.I.)
+* **Foco:** Suporte técnico (Helpdesk), manutenção de equipamentos e troubleshooting de software/hardware.
+* **Role:** Atuação direta na resolução de chamados e suporte ao usuário final, garantindo a continuidade das operações do time.
+
+---
+
+### 🛠️ Tech & Tools
+
+* **OS:** Linux (Daily Driver & Troubleshooting), Windows
+* **Dev:** JavaScript, HTML5, CSS3, SQL
+* **Ferramentas:** Git, VS Code, Ferramentas de Helpdesk
+
+---
+
+### 🧠 Mindset
+
+* **Problem Solving:** Habilidade afiada no dia a dia do suporte para isolar e corrigir falhas rapidamente.
+* **Linux Enthusiast:** Foco em otimização de sistema e customização de ambiente.
+* **Aprendizado Contínuo:** Expandindo conhecimentos de Fullstack Development em paralelo à atuação em infra/suporte.
+
+---
 
 <div align="left">
-  <a href="https://www.instagram.com/iago_.pinheiro/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/iago-pinheiroo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:iagoo.pinheiro73@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/iago-pinheiroo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/iago_.pinheiro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=333&logoColor=white&labelColor=black&style=flat" height="25" alt="instagram logo" />
   </a>
 </div>
 
-###
+<br>
 
-<img align="right" height="250" src="https://i.postimg.cc/bvCzbgCg/imagem-Readme-Round.png" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <h3>🧠 Sobre Mim</h3>
-  <p>
-    🎓 Cursando o 3º semestre de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC Franca<br>
-    🚀 Atualmente focado em <strong>JavaScript</strong> através do curso da OneBitCode<br>
-    💻 Experiência acadêmica: <strong>Algoritmos</strong>, <strong>Estrutura de Dados</strong>, <strong>POO</strong> e <strong>Banco de Dados</strong><br>
-    🐧 Usuário Linux no dia a dia<br><br>
-  </p>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iago-pinheiro/iago-pinheiro/output/snake.svg" alt="Snake animation" />
-
-###
+![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iago-pinheiro&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
