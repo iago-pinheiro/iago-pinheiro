@@ -32,4 +32,4 @@ Paralelamente, estou indo para o **4º Semestre** de **Desenvolvimento de Softwa
 
 <br>
 
-![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iago-pinheiro&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iago-pinheiro?cardType=level&theme=dark&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
