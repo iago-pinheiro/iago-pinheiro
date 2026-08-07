@@ -1,20 +1,19 @@
 # Iago Rodrigues Pinheiro
 
-> **Problem Solver | T.I. Support**
+> **Problem Solver | T.I.**
 
-Sou um entusiasta de tecnologia focado em resolver problemas.
+Sou tecnologia focado em resolver problemas.
 
-Atualmente faço parte do time de Tecnologia como Aprendiz da **Great Place to Work Brasil**, onde atuo resolvendo e apoiando em todo tipo de incidente técnico.
+Atualmente faço parte do time de Tecnologia da **Great Place to Work Brasil**, onde atuo resolvendo e apoiando em todo tipo de incidente técnico.
 
-Paralelamente, estou no **4º Semestre** de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
+Paralelamente, estou no **5º Semestre** de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
 
 ---
 
 ### 💻 Tech & Foco
 
-* **Estudando:** JavaScript | React | React Native.
 * **No trabalho:** Troubleshooting de hardware/software/Ambientes Microsoft 365/ Zeev e suporte.
-* **Ambiente:** Usuário de **Linux**. Gosto de customizar e ter total controle do meu sistema.
+* **Ambiente:** Usuário de **Linux**.
 
 ---
 
