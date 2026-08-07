@@ -2,8 +2,6 @@
 
 > **Problem Solver | T.I.**
 
-Sou tecnologia focado em resolver problemas.
-
 Atualmente faço parte do time de Tecnologia da **Great Place to Work Brasil**, onde atuo resolvendo e apoiando em todo tipo de incidente técnico.
 
 Paralelamente, estou no **5º Semestre** de **Desenvolvimento de Software Multiplataforma** na FATEC Franca.
